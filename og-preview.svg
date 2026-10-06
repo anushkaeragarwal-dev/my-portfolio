@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <!-- Decorative circles -->
+  <circle cx="1100" cy="100" r="300" fill="#2563eb" opacity="0.12" filter="blur(60px)" />
+  <circle cx="100" cy="550" r="250" fill="#06b6d4" opacity="0.1" filter="blur(50px)" />
+
+  <!-- Logo Pill -->
+  <rect x="100" y="90" width="64" height="64" rx="18" fill="url(#accent)" />
+  <text x="132" y="132" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="28" text-anchor="middle">AA</text>
+  <text x="180" y="130" fill="#94a3b8" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="24">anushka.dev</text>
+
+  <!-- Tag badge -->
+  <rect x="100" y="200" width="380" height="42" rx="21" fill="rgba(59, 130, 246, 0.15)" stroke="rgba(59, 130, 246, 0.4)" stroke-width="1.5" />
+  <circle cx="124" cy="221" r="5" fill="#10b981" />
+  <text x="142" y="227" fill="#60a5fa" font-family="'JetBrains Mono', monospace" font-size="16" font-weight="600">1st Year B.Tech CSE (Core) &bull; JECRC</text>
+
+  <!-- Main Title -->
+  <text x="100" y="320" fill="#ffffff" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="64" letter-spacing="-1px">
+    Anushka Agarwal
+  </text>
+
+  <!-- Subtitle -->
+  <text x="100" y="380" fill="#cbd5e1" font-family="'Inter', sans-serif" font-weight="400" font-size="26">
+    Student Developer &bull; Programming, Web Development &amp; AI
+  </text>
+  
+  <text x="100" y="425" fill="#94a3b8" font-family="'Inter', sans-serif" font-weight="400" font-size="20">
+    JECRC University, Jaipur, Rajasthan, India
+  </text>
+
+  <!-- Tech tags -->
+  <rect x="100" y="480" width="130" height="40" rx="8" fill="#1e293b" stroke="#334155" />
+  <text x="165" y="505" fill="#93c5fd" font-family="'Inter', sans-serif" font-size="16" text-anchor="middle">C Language</text>
+
+  <rect x="245" y="480" width="130" height="40" rx="8" fill="#1e293b" stroke="#334155" />
+  <text x="310" y="505" fill="#fdba74" font-family="'Inter', sans-serif" font-size="16" text-anchor="middle">HTML &amp; CSS</text>
+
+  <rect x="390" y="480" width="140" height="40" rx="8" fill="#1e293b" stroke="#334155" />
+  <text x="460" y="505" fill="#fde047" font-family="'Inter', sans-serif" font-size="16" text-anchor="middle">Python Basics</text>
+
+  <rect x="545" y="480" width="130" height="40" rx="8" fill="#1e293b" stroke="#334155" />
+  <text x="610" y="505" fill="#c4b5fd" font-family="'Inter', sans-serif" font-size="16" text-anchor="middle">AI Concepts</text>
+
+  <rect x="690" y="480" width="170" height="40" rx="8" fill="#1e293b" stroke="#334155" />
+  <text x="775" y="505" fill="#6ee7b7" font-family="'Inter', sans-serif" font-size="16" text-anchor="middle">Design Thinking</text>
+</svg>
